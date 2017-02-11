@@ -1,0 +1,44 @@
+/*
+	main.css
+	author : discoNeko
+	created : 2016/02/11
+	purpose : 
+
+	TODO : 
+		add something
+		- discoNeko 2016/02/11
+*/
+
+/* Body */
+	body {
+		margin: auto;
+		background-color: #aad
+	}
+
+/* Wrapper */
+	#wrapper {
+
+	}
+	
+/* Header */
+	#header {
+		height: 8em;
+		background-color: #669;
+	}
+
+/* Tabs */
+	#tabs {
+
+	}
+
+/* Main */
+	#main {
+
+	}
+
+/* Footer */
+	#footer {
+		text-align: center
+	}
+
+}
